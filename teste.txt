@@ -1,2 +1,3 @@
 arquivo aprendizado git
 Olá, Mundo!
+Troca de branch master - secundaria
